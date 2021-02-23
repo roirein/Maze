@@ -1,0 +1,26 @@
+.root{
+    -fx-background-image: url("/Resources/images/menu.PNG");
+    -fx-background-size: 100% 100%;
+}
+.button{
+    -fx-box-shadow:inset 0px 39px 16px -24px #b54b3a;
+    -fx-background-color:#a73f2d;
+    -fx-border-radius:4px;
+    -fx-display:inline-block;
+    -fx-cursor:pointer;
+    -fx-color-label-visible:#ffffff;
+    -fx-font-family:Arial;
+    -fx-font-size:15px;
+    -fx-padding:5px 12px;
+    -fx-text-decoration:none;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+.button:hover {
+    -fx-background-color:#b34332;
+}
+
+.label{
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}

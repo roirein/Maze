@@ -1,0 +1,14 @@
+.myDialog > *.label.content{
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+.myDialog{
+    -fx-background-color: red
+}
+.myDialog > *.header-panel{
+    -fx-background-color: red;
+}
+.myDialog > *.header-panel *.label{
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+}

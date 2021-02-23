@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="397.0" styleClass="root" stylesheets="@props.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.Properties">
+   <children>
+      <Label fx:id="label1" alignment="CENTER" layoutX="27.0" layoutY="100.0" prefHeight="18.0" prefWidth="344.0" text="Label" />
+      <Label fx:id="label2" alignment="CENTER" layoutX="27.0" layoutY="150.0" prefHeight="18.0" prefWidth="344.0" text="Label" />
+      <Label fx:id="label3" alignment="CENTER" layoutX="27.0" layoutY="200.0" prefHeight="18.0" prefWidth="344.0" text="Label" />
+      <Label fx:id="label4" alignment="CENTER" layoutX="27.0" layoutY="250.0" prefHeight="18.0" prefWidth="350.0" text="Label" />
+   </children>
+</AnchorPane>

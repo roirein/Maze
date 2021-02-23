@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="281.0" prefWidth="349.0" stylesheets="@generator.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.GeneratorController">
+   <children>
+      <TextField fx:id="textField_mazeRows" layoutX="141.0" layoutY="189.0" />
+      <TextField fx:id="textField_mazeColumns" layoutX="141.0" layoutY="141.0" />
+      <Label layoutX="40.0" layoutY="193.0" prefHeight="18.0" prefWidth="66.0" text="Columns:" />
+      <Label layoutX="40.0" layoutY="144.0" prefHeight="18.0" prefWidth="60.0" text="Rows:" />
+      <ComboBox fx:id="fxCollections" layoutX="140.0" layoutY="15.0" onAction="#mouse_click" prefWidth="150.0" promptText="Empty Maze">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Empty Maze" />
+               <String fx:value="Randomized Maze" />
+               <String fx:value="Original Maze" />
+            </FXCollections>
+         </items>
+      </ComboBox>
+      <Label layoutX="40.0" layoutY="19.0" text="Maze Type:" />
+      <Button fx:id="go" layoutX="42.0" layoutY="230.0" mnemonicParsing="false" onAction="#handle_button" prefHeight="26.0" prefWidth="98.0" text="Let's go" />
+      <Button fx:id="close" layoutX="173.0" layoutY="230.0" mnemonicParsing="false" onAction="#handle_button" prefHeight="26.0" prefWidth="106.0" text="Cancel" />
+      <Label layoutX="40.0" layoutY="55.0" prefHeight="18.0" prefWidth="78.0" text="Difficulty" />
+      <ComboBox fx:id="Difficulty" disable="true" layoutX="140.0" layoutY="52.0" prefWidth="150.0" promptText="Easy">
+      <items>
+         <FXCollections fx:factory="observableArrayList">
+            <String fx:value="Easy" />
+            <String fx:value="Medium" />
+            <String fx:value="Hard" />
+         </FXCollections>
+      </items>
+   </ComboBox>
+      <Label layoutX="40.0" layoutY="102.0" prefHeight="18.0" prefWidth="47.0" text="Mode" />
+      <ComboBox fx:id="Mode" disable="true" layoutX="140.0" layoutY="99.0" prefWidth="150.0" promptText="On Distance">
+      <items>
+         <FXCollections fx:factory="observableArrayList">
+            <String fx:value="On Distance" />
+            <String fx:value="On Score" />
+         </FXCollections>
+      </items>
+   </ComboBox>
+   </children>
+</AnchorPane>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ATP-Project-PartB:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a3b87bd-3f9a-47fa-b22e-b5b23c45881b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aPBnGEIUxWZSc4qtbvWQCRM7Lm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\רועי\IdeaProjects\ATP-Project-PartB\src" />
+      <recent name="C:\Users\רועי\IdeaProjects\ATP-Project-PartB\src\algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunCommunicateWithServers">
+    <configuration name="Configurations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Configurations" />
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Huffman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Huffman" />
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Main" />
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCommunicateWithServers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunCommunicateWithServers" />
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCompressDecompressMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunCompressDecompressMaze" />
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMazeGenerator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.RunMazeGenerator" />
+      <module name="ATP-Project-PartB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunSearchOnMaze" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test.RunSearchOnMaze" />
+      <module name="ATP-Project-PartB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunMazeGenerator" />
+      <item itemvalue="Application.RunSearchOnMaze" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.RunCompressDecompressMaze" />
+      <item itemvalue="Application.RunCommunicateWithServers" />
+      <item itemvalue="Application.Configurations" />
+      <item itemvalue="Application.Huffman" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunCommunicateWithServers" />
+        <item itemvalue="Application.RunCompressDecompressMaze" />
+        <item itemvalue="Application.Huffman" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Configurations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3b87bd-3f9a-47fa-b22e-b5b23c45881b" name="Default Changelist" comment="" />
+      <created>1586627513655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586627513655</updated>
+      <workItem from="1586627516936" duration="6281000" />
+      <workItem from="1586633823856" duration="3139000" />
+      <workItem from="1586795585031" duration="908000" />
+      <workItem from="1586866823950" duration="4596000" />
+      <workItem from="1586943261166" duration="49000" />
+      <workItem from="1586951391631" duration="13121000" />
+      <workItem from="1587032275800" duration="31168000" />
+      <workItem from="1587649423759" duration="51984000" />
+      <workItem from="1588509810412" duration="73498000" />
+      <workItem from="1589703625042" duration="31045000" />
+      <workItem from="1589889251492" duration="92000" />
+      <workItem from="1589889432442" duration="28000" />
+      <workItem from="1589889539243" duration="304000" />
+      <workItem from="1589889963160" duration="804000" />
+      <workItem from="1589891032416" duration="6813000" />
+      <workItem from="1590057585831" duration="49547000" />
+      <workItem from="1590336861947" duration="19642000" />
+      <workItem from="1590761451098" duration="22048000" />
+      <workItem from="1591714123499" duration="1197000" />
+      <workItem from="1592045159647" duration="1209000" />
+      <workItem from="1592047255706" duration="2382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="307" width="886" height="676" key="#Project_Structure" timestamp="1589925171648">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="331" y="307" width="886" height="676" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1589925171648" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586634463216">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586634463216" />
+    <state x="763" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587660363969">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="763" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1587660363969" />
+    <state x="830" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1590602010100">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="266" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1590602010100" />
+    <state x="734" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592048608759">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="459" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871902362" />
+    <state x="2609" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586635588200" />
+    <state x="734" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1592048608759" />
+    <state x="827" y="448" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590162424526">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="827" y="448" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1112@0.0.2048.1112" timestamp="1590162424526" />
+    <state x="755" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592045313888">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1592045313888" />
+    <state x="797" y="531" key="#xdebugger.evaluate" timestamp="1589910627286">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="797" y="531" key="#xdebugger.evaluate/0.0.2048.1112@0.0.2048.1112" timestamp="1589910627286" />
+    <state x="891" y="368" width="438" height="445" key="FileChooserDialogImpl" timestamp="1590911002629">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="891" y="368" width="438" height="445" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1590911002629" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1592050169235">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="252" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871837110" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965328" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1592050169235" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1592050169235">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="252" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871837110" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965327" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1592050169235" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1592050169235">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="252" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871837109" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965326" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1592050169235" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1592050169235">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="252" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871837110" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965327" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1592050169235" />
+    <state width="2005" height="375" key="GridCell.Tab.1.bottom" timestamp="1590161525561">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871300339" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965329" />
+    <state width="2005" height="375" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1590161525561" />
+    <state width="2005" height="375" key="GridCell.Tab.1.center" timestamp="1590161525561">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871300339" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965329" />
+    <state width="2005" height="375" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1590161525561" />
+    <state width="2005" height="375" key="GridCell.Tab.1.left" timestamp="1590161525560">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871300339" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965329" />
+    <state width="2005" height="375" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1590161525560" />
+    <state width="2005" height="375" key="GridCell.Tab.1.right" timestamp="1590161525561">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871300339" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586636965329" />
+    <state width="2005" height="375" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1590161525561" />
+    <state x="836" y="158" key="SettingsEditor" timestamp="1592048613216">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586871906837" />
+    <state x="2360" y="94" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586635593148" />
+    <state x="836" y="158" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1592048613216" />
+    <state x="699" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1590761451541">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="437" y="225" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586866825744" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586795585323" />
+    <state x="699" y="368" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1590761451541" />
+    <state x="465" y="183" key="new project wizard" timestamp="1591634912774">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="465" y="183" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1591634912774" />
+    <state x="681" y="259" key="run.anything.popup" timestamp="1587149392107">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587149392107" />
+    <state x="665" y="241" width="717" height="725" key="search.everywhere.popup" timestamp="1590776283627">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586631721567" />
+    <state x="665" y="241" width="717" height="725" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1590776283627" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/RunMazeGenerator.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/RunCommunicateWithServers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java</url>
+          <line>13</line>
+          <properties class="test.RunCompressDecompressMaze" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
